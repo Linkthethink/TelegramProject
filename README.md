@@ -12,4 +12,5 @@ Bot simulates the real-life application of Customer Support Bot for 7-Eleven. Th
 
 ### More about the demo and PPT document
 Youtube link: https://youtu.be/q6KL4nEWd-s
+
 Canva link: https://www.canva.com/design/DAGfpU2D20U/73OUuNeqGnSqohCRDUDZhg/edit?utm_content=DAGfpU2D20U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
